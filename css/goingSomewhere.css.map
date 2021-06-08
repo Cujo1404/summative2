@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAM;EAEJ,MAAM,EAAE,KAAK;EACb,WAAW,EAAE,GAAG;EAChB,cAAc,EAAE,GAAG;;AAKrB,eAAe;EACb,WAAW,EAAE,GAAG;EAChB,KAAK,EAAE,GAAG",
+"sources": ["../sass/goingSomewhere.scss"],
+"names": [],
+"file": "goingSomewhere.css"
+}
